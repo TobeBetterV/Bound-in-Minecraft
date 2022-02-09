@@ -5,7 +5,7 @@
 
 ![屏幕录制2022-01-01 下午4.57.09-1](README.assets/show.gif)
 
-(尽管压缩过，图片还是比较大)
+(尽管压缩过，图片还是比较大，可以[下载浏览](https://github.com/TobeBetterV/Bound-in-Minecraft/raw/main/README.assets/show.gif)
 
 用Minecraft中人物的位置来控制条状反弹球拍，用橘黄色羊毛方块来表示小球，用绿色的羊毛方块来表示球拍，用灰色的羊毛和木头填充背景。
 
